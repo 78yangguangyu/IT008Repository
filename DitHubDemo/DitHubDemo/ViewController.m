@@ -9,7 +9,9 @@
 #import "ViewController.h"
 
 @interface ViewController ()
-
+{
+    NSString*_age;
+}
 @end
 
 @implementation ViewController
